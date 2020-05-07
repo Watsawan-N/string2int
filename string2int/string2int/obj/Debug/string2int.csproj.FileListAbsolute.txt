@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\string2int\string2int\bin\Debug\string2int.exe.config
+C:\Users\User\source\repos\string2int\string2int\bin\Debug\string2int.exe
+C:\Users\User\source\repos\string2int\string2int\bin\Debug\string2int.pdb
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.csprojAssemblyReference.cache
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.Form1.resources
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.Properties.Resources.resources
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.csproj.GenerateResource.cache
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.exe
+C:\Users\User\source\repos\string2int\string2int\obj\Debug\string2int.pdb
